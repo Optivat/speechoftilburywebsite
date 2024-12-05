@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'germania_oneregular';
+	src: url(../../assets/fonts/germania_oneregular-239d81ce19d13af464bbd878edb1989d.woff2) format('woff2'),
+	url(../../assets/fonts/germania_oneregular-93d1fed2bc2497c6b7f5448b534d8daf.woff) format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: auto;
+}

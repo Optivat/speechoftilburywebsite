@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'chomskyregular';
+	src: url(../../assets/fonts/chomskyregular-c5e04d12dabd37c5e95074da984a6c8b.woff2) format('woff2'),
+	url(../../assets/fonts/chomskyregular-107d0234824a1f330ab871a3cca4ba07.woff) format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: auto;
+}
